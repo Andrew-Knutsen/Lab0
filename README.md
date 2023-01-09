@@ -1,2 +1,9 @@
-# Lab0
-Contains the introduction README file for lab 0
+- Hi, I’m Andrew Knutsen
+- I’m interested in electronics
+- I’m currently learning about coding
+- I'm originally from Washington state
+- I'm a senior in electrical engineering
+- I chose my major because I have always been facinated by electronics
+- A fun fact about me is: I was a submarine sonar technician for 9 years
+- What do I want to learn from EE 205? I want to learn how to be an engineer
+- A book or movie I'd recommend is: Interstellar
